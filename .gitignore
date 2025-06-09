@@ -16,4 +16,5 @@ ENV/
 # Data files
 *.csv
 *.json
-*.db
+*.dbdata/
+*data/
